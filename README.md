@@ -17,4 +17,3 @@ Java exercises from the CodingFactory cf9 course, covering basic programming con
 ## Requirements
 
 - Java 17+
-- IntelliJ IDEA
