@@ -1,6 +1,6 @@
 # CodingFactory Testbed
 
-Java exercises from the CodingFactory cf9 course, covering basic programming concepts.
+Java exercises covering basic programming concepts.
 
 ## Contents
 
